@@ -1,0 +1,10 @@
+1. Install XAMP dan Jalankan Apache dan Mysql
+2. Buka DBMS atau Mysql phpmyadmin
+3. Buat nama Database dengan nama "omo"
+4. Import->Choose File masukan query product.sql yang ada di file "awe"
+5. Tekan Import
+6. buka Local Disk C atau dimana anda melakukan instalasi xampnya
+7. buka xampp/htdocs/----->copy filenya disini
+8. buka browser atau jenis lainnya "http://localhost/awe/"
+9. Selamat menjalankan silahkan tambahkan Product sendiri
+10. tetap semangat Cingcangkeling manuk cingkleung cineuteun bos ka sawah bapak sama buleuneung
